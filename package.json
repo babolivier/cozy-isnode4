@@ -1,0 +1,40 @@
+{
+  "name": "cozy-ismycozyrunningnode4yet",
+  "version": "1.0.0",
+  "engines": [
+    "*"
+  ],
+  "description": "Has your Cozy been upgraded to Node.js 4 yet? Let's find out.",
+  "cozy-displayName": "Has my Cozy been upgraded to Node 4 yet?",
+  "cozy-permissions": {},
+  "icon-path": "question.png",
+  "main": "index.js",
+  "dependencies": {
+    "express": "4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/babolivier/cozy-isnode4.git"
+  },
+  "keywords": [
+    "cozy",
+    "is",
+    "node4"
+  ],
+  "author": {
+    "name": "Brendan Abolivier",
+    "url": "https://twitter.com/BrenAbolivier"
+  },
+  "homepage": "https://github.com/babolivier/cozy-isnode4",
+  "bugs": {
+    "url": "https://github.com/babolivier/cozy-isnode4/issues"
+  },
+  "licenses": {
+    "type": "Do What the Fuck You Want to Public License",
+    "url": "http://www.wtfpl.net/"
+  }
+}
