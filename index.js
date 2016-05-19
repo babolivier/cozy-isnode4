@@ -35,7 +35,7 @@ function checkVersion() {
 
     var isNode4 = (majorNumber >= 4);
 
-    if (!isNode4) {
+    if (isNode4) {
         finalStr = "Yes! Your Cozy has been upgraded to Node.js 4! \\o/";
     } else {
         finalStr = "Sorry, we haven't upgraded your Cozy to Node.js 4 yet, because " + nopeStrs[Math.floor(Math.random()*nopeStrs.length)] + ".";
