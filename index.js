@@ -20,7 +20,15 @@ var nopeStrs = [
     "we were too busy trying an awesome app using the latest Node.js 4 features. But you can't do that. You don't have Node.js 4 yet",
     "your mom called, and she wants you to stop harrassing me for this",
     "we were too busy trying to fix Emails",
-    "we enabled 2FA and got locked out of our infra"
+    "we enabled 2FA and got locked out of our infra",
+    "we were trying to understand how to tag a single task in tasky",
+    "it's not free. If it's free, you're the product",
+    "somebody asked us whether cozy is multi users",
+    "today is a public holiday, somewhere in the world",
+    "49.3 aka I-told-you-so-in-your-face, that's why",
+    "we were quite busy playing with owncloud",
+    "somebody in the infra team has had a bad hangover. AGAIN",
+    "why not? Seriously"
 ];
 
 var htmlHead = '<!DOCTYPE html><html><head><title>Is your Cozy Node.js 4 ready?</title><link rel="stylesheet" href="style"></head><body><div id="content">';
